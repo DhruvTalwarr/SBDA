@@ -1,0 +1,15 @@
+fastapi[standard]
+uvicorn
+streamlit
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-community
+beautifulsoup4
+faiss-cpu
+sentence-transformers
+pydantic
+requests
+reportlab
+python-dotenv
